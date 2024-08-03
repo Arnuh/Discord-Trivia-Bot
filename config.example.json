@@ -25,6 +25,7 @@
   "unique-multiplier-max": 0,
   "use-fixed-rounds": false,
   "use-reactions": false,
+  "use-replying": false,
 
   "allow-bots": false,
   "allow-eval": true,
